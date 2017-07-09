@@ -1,0 +1,72 @@
+name: HIC.ai
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/115496b4-a0f5-4b4d-a3d6-a2ac09985394.jpg
+layout_spectrum: 0.6966995659179174
+typography_spectrum: 0.208904240073378
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.844694278591709
+  lightness: 0.6318006445295962
+  saturation: 0.007443260440676666
+  rhythmicContrast: 0.13962695581054702
+purpose:
+  - type: external
+    label: Your Playspace
+    url: 'http://43.242.212.78:8080'
+  - type: external
+    label: Our Workspace
+    url: >-
+      https://console.cloud.google.com/home/dashboard?authuser=1&project=fiolabs-hic
+title: HIC.ai
+description: Design Your Happiness
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e1ab578-ef65-4037-aa6b-fa697c1d2988.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e1ab578-ef65-4037-aa6b-fa697c1d2988.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/860e3a36-94d7-43bf-a0f9-4851908607e1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/860e3a36-94d7-43bf-a0f9-4851908607e1.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+analytics:
+  google: UA-100432459-1
+github: true
