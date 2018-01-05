@@ -3,6 +3,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/115496b4-a0f5-4b4d-a3d6-a2ac09985394.jpg
 layout_spectrum: 0.6966995659179174
 typography_spectrum: 0.208904240073378
+analytics:
+  facebook: ''
+  google: UA-100432459-1
+  twitter: ''
 color:
   brandColors:
     - '#2C3E50'
@@ -67,6 +71,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-analytics:
-  google: UA-100432459-1
 github: true
