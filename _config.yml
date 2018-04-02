@@ -23,7 +23,7 @@ purpose:
     label: Your Playspace
     url: 'http://43.242.212.78:8080'
   - type: external
-    label: 'https://temp-ui.appspot.com'
+    label: Your Workspace
     url: 'https://temp-ui.appspot.com'
 title: HIC.ai
 description: Design Your Happiness
