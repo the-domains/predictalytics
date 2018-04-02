@@ -23,9 +23,8 @@ purpose:
     label: Your Playspace
     url: 'http://43.242.212.78:8080'
   - type: external
-    label: Our Workspace
-    url: >-
-      https://console.cloud.google.com/home/dashboard?authuser=1&project=fiolabs-hic
+    label: 'https://temp-ui.appspot.com'
+    url: 'https://temp-ui.appspot.com'
 title: HIC.ai
 description: Design Your Happiness
 content:
