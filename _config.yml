@@ -21,7 +21,7 @@ color:
 purpose:
   - type: external
     label: Your Playspace
-    url: 'http://43.242.212.78:8080'
+    url: 'https://temp-ui.appspot.com'
   - type: external
     label: Your Workspace
     url: 'https://temp-ui.appspot.com'
