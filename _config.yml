@@ -24,7 +24,7 @@ purpose:
     url: 'https://temp-ui.appspot.com'
   - type: external
     label: Our Workspace
-    url: 'https://temp-ui.appspot.com'
+    url: 'https://console.cloud.google.com/home/dashboard?project=fiolabs-hic'
 title: HIC.ai
 description: Design Your Happiness
 content:
